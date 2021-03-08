@@ -1,0 +1,114 @@
+.parallax-scene {
+	display: flex;
+    flex-direction: row;
+	justify-content: space-between;
+	margin: 0;
+    min-height: 100vh;
+	padding: 0;
+}
+
+.layer {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+
+.cloud {
+    height: auto;
+	max-width: 100%;
+    width: auto\9; 
+}
+
+.cloud-position-1 {
+	left: $l-size;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+	top: $l-size;
+	transform: scale(2);
+}
+
+.cloud-position-2 {
+    left: 100%;
+	margin: 0;
+    padding: 0;
+    position: relative;
+	top: 30%;
+	transform: scale(2);
+}
+
+.cloud-position-3 {
+    left: 80%;
+	margin: 0;
+    padding: 0;
+    position: relative;
+	top: 70%;
+	transform: scale(2);
+}
+
+.cloud-position-4 {
+	margin: 0;
+    padding: 0;
+    position: relative;
+	top: 50%;
+	transform: scale(2);
+}
+
+.sun-position {
+	margin: 0;
+    padding: 0;
+    position: relative;
+	left: 100%;
+	transform: scale(1);
+}
+
+.bird-position {
+	margin: 0;
+    padding: 0;
+    position: relative;
+	left: 20%;
+	top: 20%;
+	transform: scale(0.8);
+}
+
+.x1 {
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	transform: scale(0.9);
+}
+
+.x2 {
+	-webkit-transform: scale(0.8);
+	-moz-transform: scale(0.8);
+	transform: scale(0.8);
+}
+
+.x3 {
+	-webkit-transform: scale(0.7);
+	-moz-transform: scale(0.7);
+	transform: scale(0.7);
+}
+
+.cloud-shadow {
+	-webkit-filter: drop-shadow( 3px 1px 3px rgba(0, 0, 0, .7));
+	filter: drop-shadow( 3px 1px 3px rgba(0, 0, 0, .7));
+}
+@media(min-width: $desktop-breakpoint) {
+	.cloud-position-1 {
+		transform: scale(1.5);
+	}
+	.cloud-position-2 {
+		transform: scale(1.5);
+	}
+	.cloud-position-3 {
+		transform: scale(1.5);
+	}
+	.cloud-position-4 {
+		transform: scale(1.5);
+	}
+	.bird-position {
+		transform: scale(0.3);
+	}
+}

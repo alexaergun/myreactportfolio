@@ -1,0 +1,95 @@
+.header-top {
+    background: transparentize($off-white, $amount: 1);
+    position: fixed;
+    color: $off-white;
+    top: 0;
+    transition: background-color 1s, color 1s;
+    text-decoration: none;
+    width: 100%;
+    z-index: 10;
+    
+}
+
+.header-moving {
+    background: $off-white;
+    box-shadow: 0px 2px 8px;
+    position: fixed;
+    top: 0;
+    transition: background-color 1s, color 1s, box-shadow 1s;
+    width: 100%;
+    z-index: 10;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    padding: $s-size 0;
+}
+.header__links {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header-title-top {
+    text-decoration: none;
+    h1 {
+        background-color: rgba(255,255,255,.1);
+        border-style: solid;
+        margin: 0;
+        padding: 0px 10px 0px 10px;
+        a {
+            text-decoration: none;
+            &:visited {
+                color: $off-white;
+            }
+            &:link {
+                color: $off-white;
+            }
+            transition: color 1s;
+        }
+    }
+}
+.header-title-moving {
+    text-decoration: none;
+    h1 {
+        border-style: solid;
+        margin: 0;
+        padding: 0px 10px 0px 10px;
+        a {
+            text-decoration: none;
+            &:visited {
+                color: $dark-grey;
+            }
+            &:link {
+                color: $dark-grey;
+            }
+            transition: color 1s;
+        }
+    }
+}
+.header-subtitle-moving {
+    text-decoration: none;
+    margin: $s-size;
+    font-weight: bold;
+    &:visited {
+        color: $dark-grey;
+    }
+    &:link {
+        color: $dark-grey;
+    }
+    
+    transition: background-color 1s, color 1s;
+}
+.header-subtitle-top {
+    text-decoration: none;
+    margin: $s-size;
+    font-weight: bold;
+    &:visited {
+        color: $off-white;
+    }
+    &:link {
+        color: $off-white;
+    }
+    transition: background-color 1s, color 1s;
+}
+

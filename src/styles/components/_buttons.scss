@@ -1,0 +1,165 @@
+.button-logo-top {
+    background-color: rgba(255,255,255,.1);
+    border-style: solid;
+    border-width: 2px;
+    color: $off-white;
+    cursor: pointer;
+    font-size: $l-size;
+    margin: 0;
+    padding: 5px 10px 5px 10px;
+    transition: background-color 1s, border 1s, color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.button-logo-moving {
+    background-color: rgba(255,255,255,.1);
+    border-color: $dark-grey;    
+    border-style: solid;
+    border-width: 2px;
+    color: $dark-grey;
+    cursor: pointer;
+    font-size: $l-size;
+    margin: 0;
+    padding: 5px 10px 5px 10px;
+    transition: background-color 1s, border 1s, color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.button-subtitle-top {
+    background-color: transparent;
+    border-style: none;
+    color: $off-white;
+    cursor: pointer;
+    font-size: $m-size;
+    font-weight: bold;
+    margin: 0;
+    transition: color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.button-subtitle-moving {
+    background-color: transparent;
+    border-style: none;
+    color: $dark-grey;
+    cursor: pointer;
+    font-size: $m-size;
+    font-weight: bold;
+    margin: 0;
+    transition: color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.main-button {
+    background-color: $blue; 
+    border: 2px solid $blue;
+    border-radius: 12px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.06), 0 2px 5px 0 rgba(0,0,0,.2);
+    cursor: pointer;
+    color: $off-white; 
+    left: 50%;
+    padding: 8px 16px;
+    position: absolute;
+    text-align: center;
+    top: 80%;
+    text-decoration: none;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    &:focus {
+        outline: 0;
+    }
+}
+.button-more {
+    background-color: transparent;
+    border-style: none;
+    color: $blue;
+    cursor: pointer;
+    padding: 0;
+    text-align: left;
+    text-decoration: none;
+    transition: .25s;
+    i {
+        border: solid $blue;
+        border-width: 0 3px 3px 0;
+        display: inline-block;
+        margin: 0 5px 0 0;
+        padding: 4px;
+        transform: rotate(-45deg);
+        -webkit-transform: rotate(-45deg);
+    }
+    &:focus {
+        outline: 0;
+    }
+    &:hover {
+        transform: translateX(5px);
+    }
+}
+
+.modal-button {
+    background-color: $blue; 
+    border: 2px solid $blue;
+    border-radius: 2px;
+    cursor: pointer;
+    color: $off-white; 
+    font-size: $ml-size;
+    margin: 20px;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.submit-button {
+    background-color: $blue; 
+    border: 2px solid $blue;
+    border-radius: 12px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.06), 0 2px 5px 0 rgba(0,0,0,.2);
+    cursor: pointer;
+    color: $off-white; 
+    margin: $s-size;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    z-index: 1;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.button-credit-mobile {
+    background-color: transparent;
+    border-style: none;
+    color: $dark-grey;
+    cursor: pointer;
+    font-size: $m-size;
+    font-weight: bold;
+    margin: 0;
+    transition: color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+
+.button-credit {
+    background-color: transparent;
+    border-style: none;
+    color: $off-white;
+    cursor: pointer;
+    font-size: $m-size;
+    font-weight: bold;
+    margin: 0;
+    transition: color 1s;
+    &:focus {
+        outline: 0;
+    }
+}
+

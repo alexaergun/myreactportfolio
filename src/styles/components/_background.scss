@@ -1,0 +1,44 @@
+.main-background {
+    height: 100vh;
+    position: relative;
+}
+
+.main-title {
+    color: $off-white;
+    font-size: $xl-size;
+    left: 50%;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+#main-canvas {
+    display: block;
+    height: 100vh;
+    width: 100%;
+    z-index: 1;
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+.main-info {
+    color: $off-white;
+    display: flex;
+    font-size: $xl-size;
+    left: 50%;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+}
+
+.main-header {
+    display: flex;
+    flex-direction: column;
+}
