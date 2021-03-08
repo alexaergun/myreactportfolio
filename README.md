@@ -32,7 +32,7 @@ Completed
   - Color Changing Background (https://codepen.io/alexzaworski/pen/mEkvAG)
     - I used this for the contact form
   - SweetAlert (https://sweetalert2.github.io/)
-    - I used this for any modals (this one is my favorite the alerts are very cute!!)
+    - I used this for any models (this one is my favorite the alerts are very cute!!)
 
 ## Challenges
 
