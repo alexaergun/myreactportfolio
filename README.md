@@ -53,5 +53,5 @@ Through the development of my project I ran into a few challenges:
 ## What's Coming Next...
 
 -Technical Resume enable on React Portfolio
--Portfolio Picture
+  -Portfolio Picture
 -Project 3 once completed
