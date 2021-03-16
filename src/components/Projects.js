@@ -27,7 +27,7 @@ const Projects = (props) => (
                         <a href="https://e-burton.github.io/Game-Buzz/?" class="demo">Demo</a>
                         </p>
                         <p>
-                        <a href="https://github.com/E-Burton/Game-Buzz.git" class="demo">Github</a>
+                        <a href="https://github.com/alexaergun/Game-Buzz.git" class="demo">Github</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
@@ -69,16 +69,16 @@ const Projects = (props) => (
             imgSrc={TBG}
             title="Top Board Games"
             shortDescription={
-              <p>Vintage gaming is matched with a delicious cocktail.</p>
+              <p>Boardgames are IN and Consoles are OUT!!!</p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
-                        <p>Game Buzz is a place where your love of vintage gaming is matched with a delicious cocktail suggestion for you to enjoy, simply answer a few questions and let us do the rest!</p>
+                        <p>Are your Game Nights boring and lame? Friends tired of playing Call of Duty? Introducing Top Board Games! Bored Games were always around before PC, and Game Consoles. Let us help you find the best board game for your next game night, look up instructions on how to play, you can even find were to purchase your next adventure. Say bye bye to Dave hosting game night; Try Top Board Games now!!</p>
                         <h3 class="modal-subtitle">Links</h3>
                         <p>
                         <a href="https://peaceful-spire-39350.herokuapp.com/" class="demo">Demo</a>
                         </p>
                         <p>
-                        <a href="https://github.com/gsteed1677/top-boardgames" class="demo">Github</a>
+                        <a href="https://github.com/alexaergun/top-boardgames.git" class="demo">Github</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
@@ -116,19 +116,20 @@ const Projects = (props) => (
           />
           <Project
             imgSrc={CS}
-            title="I promise it will be WORTH the wait!"
+            title="HoBBYDRoP!"
             shortDescription={
-              <p>Hobby Drop</p>
+              <p>
+                Fall out of love and into a new one with HobbyDrop, where you'll find new inspirations like; Ceramics, basket weaving, even beading!
+              </p>
             }
             longDescription={`<h3 class="modal-subtitle">Description</h3>
-                        <p>Hobby Drop App coming to a web near you!
-                        </p>
-                        <h3 class="modal-subtitle">Links</h3>
+                        <p>Meet an app that gives the you the ability to find, search, and post new hobby’s as well as sell the previous hobbies you no longer love!</p>
+                        <h3 class="modal-subtitle">Links</h3>                        
                         <p>
                         <a href="Coming Soon" class="demo">COMING SOON</a>
                         </p>
                         <p>
-                        <a href="Coming Soon" class="demo">COMING SOON</a>
+                        <a href="https://github.com/alexaergun/project_3.git" class="demo">Github</a>
                         </p>
                         <h3 class="modal-subtitle">Technology</h3>
                         <ul class="technology">
