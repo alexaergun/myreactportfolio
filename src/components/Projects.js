@@ -126,7 +126,7 @@ const Projects = (props) => (
                         <p>Meet an app that gives the you the ability to find, search, and post new hobby’s as well as sell the previous hobbies you no longer love!</p>
                         <h3 class="modal-subtitle">Links</h3>                        
                         <p>
-                        <a href="Coming Soon" class="demo">COMING SOON</a>
+                        <a href="https://peaceful-spire-39350.herokuapp.com/" class="demo">Demo</a>
                         </p>
                         <p>
                         <a href="https://github.com/alexaergun/project_3.git" class="demo">Github</a>
