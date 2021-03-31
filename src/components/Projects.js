@@ -3,7 +3,7 @@ import Project from "./Project";
 import DayPlan from "../images/DayPlanner1.png";
 import TBG from "../images/TopBoardGames.png";
 import WeatherDB from "../images/WeatherDash1.png";
-import CS from "../images/ComingSoon.png";
+import HD from "../images/HobbyDrop.png";
 import GB from "../images/GameBuzz.png";
 // represents the whole entire projects section
 const Projects = (props) => (
@@ -115,7 +115,7 @@ const Projects = (props) => (
                         `}
           />
           <Project
-            imgSrc={CS}
+            imgSrc={HD}
             title="HoBBYDRoP!"
             shortDescription={
               <p>
@@ -139,6 +139,11 @@ const Projects = (props) => (
                             <li>Material-UI</li>
                             <li>React</li>
                             <li>Google APIs</li>
+                            <li>Fire Base</li>
+                            <li>Yarn</li>
+                            <li>MongoDB</li>
+                            <li>MySQL</li>
+                            <li>ReactStrap</li>
                         </ul>
                         `}
           />
