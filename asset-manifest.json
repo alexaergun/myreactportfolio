@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/myreactportfolio/static/css/main.93fbf6cf.chunk.css",
+    "main.js": "/myreactportfolio/static/js/main.f40561e8.chunk.js",
+    "main.js.map": "/myreactportfolio/static/js/main.f40561e8.chunk.js.map",
+    "runtime-main.js": "/myreactportfolio/static/js/runtime-main.27fc3a82.js",
+    "runtime-main.js.map": "/myreactportfolio/static/js/runtime-main.27fc3a82.js.map",
+    "static/css/2.8393c96e.chunk.css": "/myreactportfolio/static/css/2.8393c96e.chunk.css",
+    "static/js/2.aac2f722.chunk.js": "/myreactportfolio/static/js/2.aac2f722.chunk.js",
+    "static/js/2.aac2f722.chunk.js.map": "/myreactportfolio/static/js/2.aac2f722.chunk.js.map",
+    "index.html": "/myreactportfolio/index.html",
+    "precache-manifest.c9e4b57709311212da1d91b87eb642ba.js": "/myreactportfolio/precache-manifest.c9e4b57709311212da1d91b87eb642ba.js",
+    "service-worker.js": "/myreactportfolio/service-worker.js",
+    "static/css/2.8393c96e.chunk.css.map": "/myreactportfolio/static/css/2.8393c96e.chunk.css.map",
+    "static/css/main.93fbf6cf.chunk.css.map": "/myreactportfolio/static/css/main.93fbf6cf.chunk.css.map",
+    "static/js/2.aac2f722.chunk.js.LICENSE.txt": "/myreactportfolio/static/js/2.aac2f722.chunk.js.LICENSE.txt",
+    "static/media/DayPlanner1.png": "/myreactportfolio/static/media/DayPlanner1.1a6386f9.png",
+    "static/media/GameBuzz.png": "/myreactportfolio/static/media/GameBuzz.2b4c617a.png",
+    "static/media/HobbyDrop.png": "/myreactportfolio/static/media/HobbyDrop.11e95622.png",
+    "static/media/TopBoardGames.png": "/myreactportfolio/static/media/TopBoardGames.b9cf8cb7.png",
+    "static/media/WeatherDash1.png": "/myreactportfolio/static/media/WeatherDash1.7cfbed60.png",
+    "static/media/cloud-backend.svg": "/myreactportfolio/static/media/cloud-backend.1b2da0f2.svg",
+    "static/media/cloud-databases.svg": "/myreactportfolio/static/media/cloud-databases.a49fe13b.svg",
+    "static/media/cloud-frontend.svg": "/myreactportfolio/static/media/cloud-frontend.9105a657.svg",
+    "static/media/cloud-services.svg": "/myreactportfolio/static/media/cloud-services.3290a955.svg",
+    "static/media/github.svg": "/myreactportfolio/static/media/github.7447a07f.svg",
+    "static/media/hummingbird.svg": "/myreactportfolio/static/media/hummingbird.feb2f8ec.svg",
+    "static/media/linkedin.svg": "/myreactportfolio/static/media/linkedin.55be3535.svg",
+    "static/media/sun.svg": "/myreactportfolio/static/media/sun.783e7fd9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27fc3a82.js",
+    "static/css/2.8393c96e.chunk.css",
+    "static/js/2.aac2f722.chunk.js",
+    "static/css/main.93fbf6cf.chunk.css",
+    "static/js/main.f40561e8.chunk.js"
+  ]
+}
