@@ -9,7 +9,7 @@ const About = (props) => (
             <h1>About Me</h1>
           </div>
           <h3>
-            <i>Hello I'm Alexandria Aixis Atwell</i>
+            <em>Hello I am Alexandria Alixis Atwell</em>
           </h3>
           <p>
           Passionate and creative baker turned web developer with a Full-Stack Web Development 
@@ -18,21 +18,23 @@ const About = (props) => (
           problem-solving. With proficiency in designing, building, and maintaining websites from conception to production.
           </p>
           <h3>
-            <i>Where I'm From</i>
+            <em>Where I'm From</em>
           </h3>
           <p>
-          I was born in the Rocky Mountain State, of Mile High, raised in London England, with parents from Barbados; and hold triple citizenship. I was first exposed to computers as an early age from Mine Sweep to Oregon Trail.  Through playing video games only then did my love of programming only blossomed at the age of 5; I had 4 game systems Atari, Dream Cast, Super Nintendo, and Sega Genesis. I loved video games so much so, I knew I wanted to be a game designer.  After which I switched my passion to being a Bartender I know a huge leap away from anything computer related, I found out I don’t enjoy the aspect of drawing very much. I wanted to explore my creative side by moving my whole body. After gaining my certificate in Mixology. I went further by getting my Associates as a Pastry Chef. After which I followed up with my N.R.A Certification, as a minor hobby for myself.  So why get back into computer related subjects again? Well I’m not going lie, MONEY! I want a future, a future away from financially burden, I want to be able to travel the world with my Turkish Husband, to grow and become successful. When my husband and I have children I want the ability to take them places with no problems. When I’m not study I enjoy baking, cooking, fishing, camping, playing with my 3 cats, and making modifications to my husbands or my vehicles.
+          I was born in the Rocky Mountain State, with parents from Barbados; and hold triple citizenship. I was first exposed to computers at an early age from Mine Sweep to Oregon Trail. 
+          Through playing video games only then did my true love of programming only blossomed; At the age of 5 I had 4 game systems Atari, Dream Cast, Super Nintendo, and Sega Genesis. I loved video games so much so, 
+          I grew up dreaming to be a game designer. After gaining my Bachelor Degree in Graphic Arts, I soon switched my passion to a Bartender. I know a huge leap away from anything computer related, the roads of exploration bekon me and I had to heed its call. 
+          After gaining my certificate in Mixology. I went further by getting my Bachelor Degree as a Pastry Chef and as a minor hobby for myself I followed up with my N.R.A Certification. I had many thing I was very passionate about, still something was missing. 
+          I lookeed back at where it all began; <strong>GAMING!!</strong> I went back into the computer world, and earned a Certificate as a Full Stack Web Devoloper. Technology is ever changing and I want to be a part of that change, I want to help influence the growth of where technology will and could be heading.
           </p>
           <h3>
-            <i>Where I'm Headed</i>
+            <em>Where I'm Headed</em>
           </h3>
           <p>
-            Being grateful for the vast knowledge I'm earning would be an understatement, coding is a heavy skill that I am exploring.
-            However I am passionate and driven. I'm keen on gaining experience in all fields of software engineering, I've even
-            grown to love <b>front end development</b>. There's something
-            satisfying about being able to make changes to code and instantly
-            seeing it reflected on a web page for everyone to see. I also enjoy the chaotic creativity that comes with coding.
-            I want to build more than an app or website, I want to create the <b>FUTURE!!</b>
+            I want to be financially stable, taking time to travel the world with my amazing Husband. I want to help be a part of the new tech wave. During my free time from coding I can be baking, cooking, fishing, camping, playing with my 3 cats, 
+            and making modifications to my husbands or my vehicles. I am passionate and driven. I'm keen on gaining experience in all fields of software engineering, I've even grown to love <strong>front end development</strong>. There's something
+            satisfying about being able to make changes to code and instantly seeing it reflected on a web page for everyone to see. I enjoy the chaotic creativity that comes with coding and the satisfication when a code breaks, and you end up spending several hours.
+            Even days, figuring what happen, and when you finally fix it, that gratifiying feeling is what I want to live for! I want to build more than an app or website, I want to create the <strong>FUTURE!!</strong>
           </p>
         </div>
       </div>
