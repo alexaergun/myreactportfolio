@@ -25,7 +25,7 @@ const About = (props) => (
           Through playing video games only then did my true love of programming only blossomed; At the age of 5 I had 4 game systems Atari, Dream Cast, Super Nintendo, and Sega Genesis. I loved video games so much so, 
           I grew up dreaming to be a game designer. After gaining my Bachelor Degree in Graphic Arts, I soon switched my passion to a Bartender. I know a huge leap away from anything computer related, the roads of exploration bekon me and I had to heed its call. 
           After gaining my certificate in Mixology. I went further by getting my Bachelor Degree as a Pastry Chef and as a minor hobby for myself I followed up with my N.R.A Certification. I had many thing I was very passionate about, still something was missing. 
-          I lookeed back at where it all began; <strong>GAMING!!</strong> I went back into the computer world, and earned a Certificate as a Full Stack Web Devoloper. Technology is ever changing and I want to be a part of that change, I want to help influence the growth of where technology will and could be heading.
+          I looked back at where it all began; <strong>GAMING!!</strong> I went back into the computer world, and earned a Certificate as a Full Stack Web Devoloper. Technology is ever changing and I want to be a part of that change, I want to help influence the growth of where technology will and could be heading.
           </p>
           <h3>
             <em>Where I'm Headed</em>
