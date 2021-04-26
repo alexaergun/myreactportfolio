@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect, useCallback } from 'react'
+rimport React, { useRef, useState, useEffect, useCallback } from 'react'
 import { useTransition, animated } from 'react-spring'
 
 export default function NameAnimation() {
@@ -21,8 +21,8 @@ export default function NameAnimation() {
     set([])
     ref.current.push(setTimeout(() => set(['Alexandria Atwell']), 2000))
     ref.current.push(setTimeout(() => set(['Fullstack', 'Coder', 'Designer', 'Thinker']), 5000))
-    ref.current.push(setTimeout(() => set(['Developer', 'Creator', 'Builder']), 8000))
-    ref.current.push(setTimeout(() => set(['Student']), 11000))
+    ref.current.push(setTimeout(() => set(['Artist', 'Dreamer', 'Builder']), 8000))
+    ref.current.push(setTimeout(() => set(['Developer']), 11000))
     ref.current.push(setTimeout(() => set(['Alexandria Atwell']), 14000))
   }, [])
 
