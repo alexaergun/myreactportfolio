@@ -28,8 +28,8 @@ const About = (props) => (
             <em>Where I'm Headed</em>
           </h3>
           <p>
-            How many folks can agree that the most satisfying part of being a Web Dev, is being able to explore your wild and creative streak? I a visionary and a want to capture all the changes  make changes to code and instantly seeing it reflected on a web page for everyone to see. I enjoy the chaotic creativity that comes with coding and the satisfaction when a code breaks, and you end up spending several hours.
-            Even days, figuring what happen, and when you finally fix it, that gratifying feeling is what I want to live for! I want to build more than an app or website, I want to create the <strong>FUTURE!!</strong>
+            How many folks can agree that the most satisfying part of being a Web Dev, is being able to explore your wild and creative streak? I <strong>LOVE</strong> the chaotic nature of coding! The satisfying challenge when your code breaks, spending several hours upon end; when finally, a <em>breakthrough</em>!
+            finally it works. I live for that, building more than an app or website, creating the <strong>FUTURE!!</strong>
           </p>
         </div>
       </div>

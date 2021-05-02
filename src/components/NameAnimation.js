@@ -20,8 +20,8 @@ export default function NameAnimation() {
     ref.current = []
     set([])
     ref.current.push(setTimeout(() => set(['Alexandria Atwell']), 2000))
-    ref.current.push(setTimeout(() => set(['Fullstack', 'Coder', 'Designer', 'Thinker']), 5000))
-    ref.current.push(setTimeout(() => set(['Artist', 'Dreamer', 'Builder']), 8000))
+    ref.current.push(setTimeout(() => set(['Visionary', 'Humble', 'Explorer', 'Foodie']), 5000))
+    ref.current.push(setTimeout(() => set(['Creator', 'Dreamer', 'Challenger']), 8000))
     ref.current.push(setTimeout(() => set(['Developer']), 11000))
     ref.current.push(setTimeout(() => set(['Alexandria Atwell']), 14000))
   }, [])
