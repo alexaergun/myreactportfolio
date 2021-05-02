@@ -9,10 +9,10 @@ const About = (props) => (
             <h1>About Me</h1>
           </div>
           <h3>
-            <em>Hello I am Alexandria Alixis Atwell</em>
+            <em>Oh hello there! I'm <strong>Alexandria Atwell</strong></em>
           </h3>
           <p>
-          I am a passionate and creative baker turned web developer. Bringing forth a motivated attitude and a variety of powerful skills; JS, React, CSS, HTML, SQL, MongoDB, Express, 
+          Passionate and creative baker turned web developer. Bringing forth a motivated attitude and a variety of powerful skills; JS, React, CSS, HTML, SQL, MongoDB, Express, 
           JSON, utilizing a strong combination of collaboration, communication, leadership and result-driven 
           problem-solving. With proficiency in designing, building, and maintaining websites from conception to production.
           </p>

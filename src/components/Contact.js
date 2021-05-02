@@ -133,12 +133,12 @@ export default class MyForm extends React.Component {
                   
                   <p>
                     Want to get in touch? Questions on my projects? Job
-                    recruitment? Need someone to talk to? Please <b>do</b>{" "}
+                    recruitment? Need someone to talk to? Please <strong>do</strong>{" "}
                     contact me through here.
                     <br />
                     <br />
                     Have the latest and greatest cryptocurrency? Single Guys
-                    in my area? Nigerian prince? Please <b>DO NOT</b> contact
+                    in my area? Nigerian prince? Please <strong>DO NOT</strong> contact
                     me.
                   </p>
                   <div className="contact-socials">
@@ -162,6 +162,17 @@ export default class MyForm extends React.Component {
                       <img
                         src={require("../images/linkedin.svg")}
                         alt="linkedin"
+                      ></img>
+                    </a>               
+                    <a
+                      rel="noopener noreferrer"
+                      className="contact-social-item"
+                      href="https://docs.google.com/document/d/1BBYXzhVbFdkYOTrGeqKDKTT1sP8z5QyzgACzv11Pymc/edit?usp=sharing"
+                      target="_blank"
+                    >
+                      <img
+                        src={require("../images/resume.svg")}
+                        alt="resume"
                       ></img>
                     </a>               
                   </div>
