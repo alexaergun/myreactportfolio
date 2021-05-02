@@ -12,8 +12,7 @@ const About = (props) => (
             <em>Hello I am Alexandria Alixis Atwell</em>
           </h3>
           <p>
-          Passionate and creative baker turned web developer with a Full-Stack Web Development 
-          Certificate from The University of Denver. Experience in JS, React, CSS, HTML, SQL, MongoDB, Express, 
+          I am a passionate and creative baker turned web developer. Bringing forth a motivated attitude and a variety of powerful skills; JS, React, CSS, HTML, SQL, MongoDB, Express, 
           JSON, utilizing a strong combination of collaboration, communication, leadership and result-driven 
           problem-solving. With proficiency in designing, building, and maintaining websites from conception to production.
           </p>
@@ -21,17 +20,16 @@ const About = (props) => (
             <em>Where I'm From</em>
           </h3>
           <p>
-          Colorado born, I have always loved <strong>GAMING</strong>. I dreamt of being a game designer. After gaining my Bachelor Degree in Graphic Arts, I soon switched my passion to a Bartender. I know a huge leap away from anything computer related, the roads of exploration bekon me and I had to heed its call. 
-          After gaining my certificate in Mixology. I went further by getting my Bachelor Degree as a Pastry Chef and as a minor hobby for myself I followed up with my N.R.A Certification. I had many thing I was very passionate about, still something was missing. 
-          I looked back at where it all began; <strong>GAMING!!</strong> I went back into the computer world, and earned a Certificate as a Full Stack Web Devoloper. Technology is ever changing and I want to be a part of that change, I want to help influence the growth of where technology will and could be heading.
+          Colorado born, I have always loved <strong>GAMING</strong>. I dreamt of being a game designer. I hold multiple degree's and certificates; a Bachelor Degree in Graphic Arts and an Associates degree as a Culinary/Pastry Chef. I am also a certified Bartender who also recently completed my Certification as Full Stack Web Developer.
+          Technology is ever changing and I want to be a part of the technology evolution. I define myself by influencing the growth of where technology will be heading. I am Self-motivated, results oriented with a proven track record of working collaboratively with team members to achieve goals.
+          Experienced in both retail and culinary settings, and adept at effectively managing operations. I have excellent time management skills combined with a superior knowledge of the customer service industry. 
           </p>
           <h3>
             <em>Where I'm Headed</em>
           </h3>
           <p>
-            I want to help be a part of the new tech wave. I am passionate and driven, keen on gaining experience in all fields of software engineering, I've even grown to love <strong>front end development</strong>. There's something
-            satisfying about being able to make changes to code and instantly seeing it reflected on a web page for everyone to see. I enjoy the chaotic creativity that comes with coding and the satisfication when a code breaks, and you end up spending several hours.
-            Even days, figuring what happen, and when you finally fix it, that gratifiying feeling is what I want to live for! I want to build more than an app or website, I want to create the <strong>FUTURE!!</strong>
+            How many folks can agree that the most satisfying part of being a Web Dev, is being able to explore your wild and creative streak? I a visionary and a want to capture all the changes  make changes to code and instantly seeing it reflected on a web page for everyone to see. I enjoy the chaotic creativity that comes with coding and the satisfaction when a code breaks, and you end up spending several hours.
+            Even days, figuring what happen, and when you finally fix it, that gratifying feeling is what I want to live for! I want to build more than an app or website, I want to create the <strong>FUTURE!!</strong>
           </p>
         </div>
       </div>
