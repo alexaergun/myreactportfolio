@@ -1,4 +1,4 @@
-rimport React, { useRef, useState, useEffect, useCallback } from 'react'
+import React, { useRef, useState, useEffect, useCallback } from 'react'
 import { useTransition, animated } from 'react-spring'
 
 export default function NameAnimation() {
