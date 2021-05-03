@@ -13,8 +13,7 @@ const About = (props) => (
           </h3>
           <p>
           Passionate and creative baker turned web developer. Bringing forth a motivated attitude and a variety of powerful skills; JS, React, CSS, HTML, SQL, MongoDB, Express, 
-          JSON, utilizing a strong combination of collaboration, communication, leadership and result-driven 
-          problem-solving. With proficiency in designing, building, and maintaining websites from conception to production.
+          JSON, utilizing a strong combination of collaboration, communication, leadership and result-driven problem-solving. With proficiency in designing, building, and maintaining websites from conception to production.
           </p>
           <h3>
             <em>Where I'm From</em>
